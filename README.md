@@ -90,7 +90,3 @@ It helps drivers detect obstacles while parking by combining **ultrasonic sensin
 ## 🌐 Social & References
 - 🙏 Special thanks to **Edges For Training Team** for guidance and support.  
 
----
-
-## 🔖 Tags
-`#EmbeddedSystems` `#ATmega32` `#AVR` `#UltrasonicSensor` `#CarParkingSensor` `#Electronics` `#IoT` `#CProgramming`
