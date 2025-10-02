@@ -83,7 +83,7 @@ It helps drivers detect obstacles while parking by combining **ultrasonic sensin
 ---
 
 ## 📹 Demo Video
-[Click here to watch the demo]([https://youtu.be/bhtyP1ZBiJg](https://www.linkedin.com/posts/moamr04_embeddedsystems-avr-ultrasonicsensor-activity-7379508713767714816-6Lwm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAETVuYEB4Qeqhcj92reIoQuR05DbOfhIkgU))
+[Click here to watch the demo]((https://www.linkedin.com/posts/moamr04_embeddedsystems-avr-ultrasonicsensor-activity-7379508713767714816-6Lwm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAETVuYEB4Qeqhcj92reIoQuR05DbOfhIkgU))
 
 ---
 
