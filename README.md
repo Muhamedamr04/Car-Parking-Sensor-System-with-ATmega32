@@ -83,10 +83,14 @@ It helps drivers detect obstacles while parking by combining **ultrasonic sensin
 ---
 
 ## 📹 Demo Video
-[Click here to watch the demo]((https://www.linkedin.com/posts/moamr04_embeddedsystems-avr-ultrasonicsensor-activity-7379508713767714816-6Lwm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAETVuYEB4Qeqhcj92reIoQuR05DbOfhIkgU))
+- 📌 LinkedIn Post: [View Project on LinkedIn](https://www.linkedin.com/posts/moamr04_embeddedsystems-avr-ultrasonicsensor-activity-7379508713767714816-6Lwm)  
 
 ---
 
-## 🙏 Acknowledgment
-Special thanks to **Edges For Training Team** for guidance and support during this project.  
+## 🌐 Social & References
+- 🙏 Special thanks to **Edges For Training Team** for guidance and support.  
 
+---
+
+## 🔖 Tags
+`#EmbeddedSystems` `#ATmega32` `#AVR` `#UltrasonicSensor` `#CarParkingSensor` `#Electronics` `#IoT` `#CProgramming`
