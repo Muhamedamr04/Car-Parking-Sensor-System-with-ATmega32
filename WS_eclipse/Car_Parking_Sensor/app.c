@@ -15,6 +15,7 @@
 
 int main()
 {
+	uint8 flag = 0;
 	uint16 dis = 0;
 	SREG |= (1<<7);
 	LCD_init();
@@ -28,10 +29,29 @@ int main()
 		LCD_moveCursor(0,10);
 		LCD_intgerToString(dis);
 		LCD_displayString("cm ");
+
 		if(dis <= 5)
 		{
-			LCD_moveCursor(1,7);
-			LCD_displayString("Stop ");
+			if(flag == 0)
+			{
+				LCD_moveCursor(1,7);
+				LCD_displayString("Stop ");
+				flag = 1;
+			}
+		}
+		else
+		{
+			if(flag == 1)
+			{
+				LCD_clearScreen();
+
+				LCD_displayString("distance=");
+				flag = 0;
+			}
+		}
+		if(dis <= 5)
+		{
+
 			LED_on(red);
 			LED_on(green);
 			LED_on(blue);
